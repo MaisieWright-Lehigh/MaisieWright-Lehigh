@@ -11,3 +11,7 @@ My [Linkenin](https://www.linkedin.com/in/maisie-wright-666190307/) has more inf
 
 ### Fast Fashion Consumption Problems
 ![infographic](https://github.com/MaisieWright-Lehigh/MaisieWright-Lehigh/blob/main/fast%20fashion%20info%20.png?raw=true)
+
+The fast fashion problem, globally, is rampant. Despite having well known brutal environmental consequences, the prices of these articles of clothing are too tempting. Stores like Zara, Shein, and H&M lead the industry. This industry is responsible for large amounts of wasted water, chemical pollution, and textile waste. 
+Out of 1,200-5,900 adults surveyed between January through December 2024, and the results confirm how pressing of an issue this is. 
+**Richter, Felix. "Most People Don't Avoid Fast Fashion." Digital image. April 28, 2025. Accessed September 28, 2025. https://www.statista.com/chart/34362/share-of-respondents-who-avoid-buying-fast-fashion/**
