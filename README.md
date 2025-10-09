@@ -15,3 +15,8 @@ My [Linkenin](https://www.linkedin.com/in/maisie-wright-666190307/) has more inf
 The fast fashion problem, globally, is rampant. Despite having well known brutal environmental consequences, the prices of these articles of clothing are too tempting. Stores like Zara, Shein, and H&M lead the industry. This industry is responsible for large amounts of wasted water, chemical pollution, and textile waste. 
 Out of 1,200-5,900 adults surveyed between January through December 2024, and the results confirm how pressing of an issue this is. 
 **Richter, Felix. "Most People Don't Avoid Fast Fashion." Digital image. April 28, 2025. Accessed September 28, 2025. https://www.statista.com/chart/34362/share-of-respondents-who-avoid-buying-fast-fashion/**
+
+## Timeline
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vT9gT3A7Qitw7KnsMUvSBm-dCsRH3PtAfOBbK8BCe-99WSEhSBS1T6k5J9yZ3jsR_nWefCgbsYxPUuF&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
