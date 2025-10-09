@@ -7,7 +7,7 @@ I'm Maisie, a student at [Lehigh University](https://www2.lehigh.edu/) from Fair
 ### me!
 ![me](https://github.com/MaisieWright-Lehigh/MaisieWright-Lehigh/blob/main/vantine_linked_in_2754145.jpg?raw=true)
 
-My [Linkenin](https://www.linkedin.com/in/maisie-wright-666190307/) has more information about who I am and what I do. I've had an internship witb the National Lacrosse League in the Broadcasting & Media Relations Department for three summers. I love writing for Lehigh University's student run newspaper, the [Brown and White](https://thebrownandwhite.com/sports/). I have written for both the news and sports sections. Find all my articles [**here!**](https://thebrownandwhite.com/author/maw728/)
+My [LinkedIn](https://www.linkedin.com/in/maisie-wright-666190307/) has more information about who I am and what I do. I've had an internship witb the National Lacrosse League in the Broadcasting & Media Relations Department for three summers. I love writing for Lehigh University's student run newspaper, the [Brown and White](https://thebrownandwhite.com/sports/). I have written for both the news and sports sections. Find all my articles [**here!**](https://thebrownandwhite.com/author/maw728/)
 
 ### Fast Fashion Consumption Problems
 ![infographic](https://github.com/MaisieWright-Lehigh/MaisieWright-Lehigh/blob/main/fast%20fashion%20info%20.png?raw=true)
