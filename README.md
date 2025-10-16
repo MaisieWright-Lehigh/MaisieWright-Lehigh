@@ -24,4 +24,6 @@ Out of 1,200-5,900 adults surveyed between January through December 2024, and th
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vR9TL57BCxoo8x3G5j5hB7mggmXMbgRADgVK11Cvzc3ZgB04sappmnZF-axAWSEIwLmNPpanhZX5WKA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+## Lehigh Enrollment Information 
 
+https://datawrapper.dwcdn.net/zEXa3/1/ 
