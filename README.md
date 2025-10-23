@@ -35,3 +35,6 @@ Out of 1,200-5,900 adults surveyed between January through December 2024, and th
 ## NHL stanley cup wins
 
 <iframe title="Top 10 Stanley Cup Winners of all Time" aria-label="Pie Chart" id="datawrapper-chart-422XY" src="https://datawrapper.dwcdn.net/422XY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="619" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
+## Map Project
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AtoQGSD95m8aQo1VdlIc26VEPfR-8wU&ehbc=2E312F" width="640" height="480"></iframe>
