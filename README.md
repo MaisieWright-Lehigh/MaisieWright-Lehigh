@@ -38,3 +38,6 @@ Out of 1,200-5,900 adults surveyed between January through December 2024, and th
 
 ## Map Project
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AtoQGSD95m8aQo1VdlIc26VEPfR-8wU&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Top 5 Cleanest Cities in the World
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Dv03-T57fJd8QscL8HuzS3KrTwmXCCc&ehbc=2E312F" width="640" height="480"></iframe>
