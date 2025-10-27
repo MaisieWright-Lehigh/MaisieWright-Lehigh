@@ -41,3 +41,4 @@ Out of 1,200-5,900 adults surveyed between January through December 2024, and th
 
 ## Top 5 Cleanest Cities in the World
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Dv03-T57fJd8QscL8HuzS3KrTwmXCCc&ehbc=2E312F" width="640" height="480"></iframe>
+Condorchem Enviro Solutions' ranked the top 10 cleanest cities in the world. Here, the top five are displayed on a map with a short description of what steps each are taking to ensure cleanliness and evnironmental health. Copenhegan is number one, and the city 
