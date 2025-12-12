@@ -60,3 +60,9 @@ Condorchem Enviro Solutions' ranked the top 10 cleanest cities in the world. Her
 This Tableau project shows when, where, and what type of UFO was seen in the US in recent history. The data set was found on [Keggle](https://www.kaggle.com/datasets/NUFORC/ufo-sightings). On the both maps, I wanted to make sure that the locations of each sightings were differentiated by the dots on the map. In order to do this, I dragged the "city" column into the "size" catagory to make the dots different sizes depending on how many sightings were in each city. Then, I color coded each sighting depending on what shape the UFO was. In the second story, I made every city in a specific state color coded so that when zoomed out, the state lines were still visible. 
 
 The first map shows the variety of the shapes and sizes of the UFOs sighted. The colors are so different, and it indicates that these shapes might be random, contrary to if there were more uniform sightings in one area or consistant reports. The second map shows how the locations of the states doesn't matter, but instead it could be the populaiton that has more of a say in how many reports an area has.  
+
+## Fast Fashion Project!
+
+Link to website: https://fastfashiondataproject.my.canva.site/
+
+Our Fast Fashion Data Project website presents a data-driven exploration of the fast fashion industry, highlighting key statistics and insights about its environmental, social, and economic impacts. Designed and built using Canva’s visual web tools, the site combines clear visual storytelling with research to make complex data accessible and engaging. Through this project, we aim to raise awareness about the consequences of fast fashion and encourage more sustainable consumer choices.
